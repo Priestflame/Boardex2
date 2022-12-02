@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_huella" type="id" />
+    <item name="btn_entrar" type="id" />
+    <item name="tb_pass" type="id" />
+    <item name="ing_pass" type="id" />
+    <item name="tb_user" type="id" />
+    <item name="ing_user" type="id" />
+    <item name="tv_iniciaSesion" type="id" />
+</resources>
